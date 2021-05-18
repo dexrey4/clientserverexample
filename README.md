@@ -1,2 +1,1 @@
-# clientserverexample
-This is an example of a simple and safe (can be more if you encrypt everything) server-client connection. It is simple to use. Read the "README.md"'s for more info.
+Edit: This project was sort of abondend. It has been updated a lot more and worked on by [Dexter Theisen](https://github.com/dexrey4) and [enbyte](https://github.com/enbyte). It has been transformed into [netty](https://github.com/enbyte/netty)
