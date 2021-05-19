@@ -1,1 +1,1 @@
-Edit: This project was sort of abondend. It has been updated a lot more and worked on by [Dexter Theisen](https://github.com/dexrey4) and [enbyte](https://github.com/enbyte). It has been transformed into [netty](https://github.com/enbyte/netty), which is a much better version of this.
+Edit: This project was sort of abondend. It has been updated a lot more and worked on by [Dexrey4](https://github.com/dexrey4) and [enbyte](https://github.com/enbyte). It has been transformed into [netty](https://github.com/enbyte/netty), which is a much better version of this.
